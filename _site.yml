@@ -4,6 +4,7 @@ description: |
   An inordinate fondness for R 
 output_dir: "_site"
 theme: theme.css
+base_url: https://guysutton.netlify.app/
 collections:
   posts:
     categories: true
