@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Guy Sutton</title>
+    <link>https://guysutton.netlify.app/</link>
+    <atom:link href="https://guysutton.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>An inordinate fondness for R 
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Plotting species accumulation curves using ggplot</title>
+      <dc:creator>Guy Sutton</dc:creator>
+      <link>https://guysutton.netlify.app/posts/2020-10-29-automated-plotting-of-species-accumulation-curves-by-group</link>
+      <description>A slow and steady introduction</description>
+      <category>tidyverse</category>
+      <category>vegan</category>
+      <category>R</category>
+      <guid>https://guysutton.netlify.app/posts/2020-10-29-automated-plotting-of-species-accumulation-curves-by-group</guid>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://guysutton.netlify.app/posts/2020-10-29-automated-plotting-of-species-accumulation-curves-by-group/automated-plotting-of-species-accumulation-curves-by-group_files/figure-html5/curve-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>

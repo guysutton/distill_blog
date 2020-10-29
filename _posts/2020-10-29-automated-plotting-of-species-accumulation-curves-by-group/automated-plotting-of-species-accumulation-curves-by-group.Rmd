@@ -4,7 +4,8 @@ description: |
   A slow and steady introduction
 author:
   - name: Guy Sutton
-    url: {}
+    url: https://twitter.com/Guy_F_Sutton
+base_url: https://guysutton.netlify.app/
 date: 10-29-2020
 output:
   distill::distill_article:
