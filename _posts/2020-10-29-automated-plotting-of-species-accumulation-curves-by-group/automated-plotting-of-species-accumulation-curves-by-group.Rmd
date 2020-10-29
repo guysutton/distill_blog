@@ -9,6 +9,10 @@ date: 10-29-2020
 output:
   distill::distill_article:
     self_contained: false
+categories:
+  - tidyverse
+  - vegan
+  - R
 draft: false
 editor_options: 
   chunk_output_type: console
