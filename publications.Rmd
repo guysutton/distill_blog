@@ -1,0 +1,107 @@
+---
+title: "Publications"
+description: "My research publications"
+output:
+  html_document:
+    df_print: paged
+  distill::distill_article:
+    toc: true
+    toc_depth: 4
+---
+
+# PEER-REVIEWED PAPERS 1
+
+&nbsp;  
+
+### *In review/in press* 
+
+1\. **Sutton, G.F.**, Canavan, K., Day, M.D., & Paterson, I.D. Field-based ecological studies to assess prospective biological control agents for invasive alien plants: an example from giant rat's tail grass. Under review at *Journal of Applied Ecology* (as of 07/07/2020).  
+
+2\. Chikowore, G., Mutamiswa, R., **Sutton, G.F.**, Martin, G.D., Chidawanyika, F. Impacts of invasive alien tree, *Robinia pseudoacacia* L. (Fabaceae) on vegetation community functional structure and grazing capacity in high elevation grasslands of South Africa. Under review at *African Journal of Range and Forage Science* (as of 13/08/2020).  
+
+&nbsp;  
+
+### **2020**  
+
+7\. Martin, G.D., Magengelele, N.L., Paterson, I.D., **Sutton, G.F.** (2020). Climate modelling suggests a review of the legal status of Brazilian pepper *Schinus terebinthifolia* in South Africa is required. *South African Journal of Botany* 132: 95-102. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S025462992030123X)  
+
+&nbsp;  
+  
+### **2019**  
+
+6\. **Sutton, G.F.**, Canavan, K., Day, M.D., Den Breeyen, A., Cristofaro, M., McConnachie, A., Goolsby, J.A., & Paterson, I.D. (2019). Grasses as suitable targets for classical weed  biological control. *BioControl* 64: 605-622. [PDF](https://link.springer.com/article/10.1007/s10526-019-09968-8)   
+ 
+5\. **Sutton, G.F.** (2019). Searching for a needle in a haystack: where to survey for climatically-matched biological control agents for two grasses (*Sporobolus* spp.) invading Australia. *Biological Control* 129: 37-44. [PDF](https://www.sciencedirect.com/science/article/pii/S1049964418306480)  
+
+&nbsp;  
+
+### **2018**  
+
+4\. **Sutton, G.F.**, Klein, H., & Paterson, I.D. (2018). Evaluating the efficacy of *Hypogeococcus* sp. as a biological control agent of the cactaceous weed *Cereus jamacaru* in South Africa. *BioControl* 63: 493-503. [PDF](https://link.springer.com/article/10.1007/s10526-018-9887-3)  
+
+&nbsp;  
+
+### **2017**  
+
+3\. **Sutton, G.F.**, Paterson, I.D., & Paynter, Q. (2017). Genetic matching of invasive populations of the African tulip tree, *Spathodea campanulata* Beauv. (Bignoniaceae), to their native distribution: maximising the likelihood of selecting host-compatible biological control agents. *Biological Control* 114: 167-175. [PDF](https://www.sciencedirect.com/science/article/pii/S1049964417301810)  
+
+2\. **Sutton, G.F.**, Paterson, I.D., Compton, S.G., & Paynter, Q. (2017). Predicting the risk of non-target damage to a close relative of a target weed using sequential no- choice tests, paired-choice tests and olfactory discrimination experiments. *Biocontrol Science and Technology* 27: 364-377. [PDF](https://www.tandfonline.com/doi/abs/10.1080/09583157.2017.1291907)  
+
+&nbsp;  
+
+### **2016**  
+
+1\. **Sutton, G.F.**, Compton, S.G., & Coetzee, J.A. (2016). Naturally occurring phytopathogens enhance biological control of water hyacinth (*Eichhornia crassipes*) by *Megamelus scutellaris* (Hemiptera: Delphacidae), even in eutrophic water. *Biological Control* 103: 261-268. [PDF](https://www.sciencedirect.com/science/article/pii/S1049964416301840)  
+
+&nbsp;  
+
+# CONFERENCE PROCEEDINGS
+
+&nbsp;  
+
+1\. Paynter, Q., Poeschko, M., Mitchell, C., Probst, C., Barreto, R.W., 
+Colman, A.A., Macedo, D., Dodd, S., Johnson, T., McCormack, G., Paterson, I.D.,
+**Sutton, G.F.**, & Winks, C.J. (2018). A weed biocontrol program for the Cook Islands: progress report. 
+In: Hinz, H.L., Bon, M.C., Bourdot, G., Cristofaro, M., Desurmont, G.,
+Kurose, D., Muller-Scharer, H., Rafter, M., Schaffner, U., Seier, M., Sforza, R.F.H., Smith, L., Stutz, S., Thomas, S., Weyl, P., & Winston, R. (Eds.), 
+*Proceedings of the XV International Symposium on the Biological Control of Weeds*, Engelberg, Switzerland, pp. 74-81. 
+
+&nbsp;
+
+# CONFERENCE PRESENTATIONS
+
+&nbsp;
+
+**2020**  
+
+8\. **Sutton, G.F.**, Canavan, K., Visser, V., & Paterson, I.D. (2020). Invasive grasses as suitable biological control targets: a South African perspective. *46th South African Association of Botanists Annual Conference*, 8-10th Janaury 2020, Qwa-Qwa, South Africa. (*Presented*).  
+
+&nbsp;  
+
+**2019**  
+
+7\. **Sutton, G.F.**, Canavan, K., & Paterson, I.D. (2019). Are grasses suitable targets for biological control?: a case-study of two African grasses (*Sporobolus* spp.) invading Australia. *46th National Symposium on Biological Invasions in southern Africa*, 15th to 17th May 2019, Tulbagh, South Africa. (*Presented*).  
+
+&nbsp;  
+
+**2018**  
+
+6\. **Sutton, G.F.**, Chari, L., & Canavan, K. (2018). Invasive grasses and classical weed biological control: are we missing a trick? *Invasive Grass Working Group Meeting*, 25th to 27th September 2018, Cape Town, South Africa. (*Presented*).  
+
+5\. **Sutton, G.F.**, Day, M.D., Canavan, K., & Paterson, I.D. (2018). Prospects for the biological control of invasive rat's tail grasses (*Sporobolus* spp.) in Australia. *XV International Symposium on the Biological Control of Weeds*, 26-31 August 2018, Engelberg, Switzerland. (*Presented*).  
+
+&nbsp;  
+
+**2017**    
+
+4\. **Sutton, G.F.**, Canavan, K., & Paterson, I.D. (2017). Are invasive grasses good targets for biological control?: A case study of two African *Sporobolus* spp. invading Australia. *52nd Annual Congress of the Grassland Society of Southern Africa*, 23-28 July 2017, Hoedspruit, South Africa. (*Presented*).  
+
+3\. **Sutton, G.F.**, Klein, H., & Paterson, I.D. (2017). Does *Hypogeococcus festerianus* (Hemiptera: Pseudococcidae) successfully control the cactaceous weed *Cereus jamacaru* in South Africa? *44th Annual Research Symposium on the Management of Biological Invasions in Southern Africa*, 3-7 July 2017, Pretoria, South Africa. (*Presented*).  
+
+&nbsp;  
+
+**2015**  
+
+2\. Paterson, I.D., Paynter, Q., **Sutton, G.F.**, & Mpekula, O. (2015). Potential biological control agents for *Spathodea campanulata* (Bignoniaceae). *XIX Congress of the Entomological Society of Southern Africa*, Rhodes University, Grahamstown, South Africa. (*Contributed data*).  
+
+1\. **Sutton, G.F.**, Timm, A.E., & Paterson, I.D. (2015). Determination of the origin of two invasive populations of African Tulip Tree using ISSR and AFLP molecular markers. *XIX Congress of the Entomological Society of Southern Africa*, Rhodes University, Grahamstown, South Africa. (*Presented*).

@@ -1,9 +1,26 @@
 ---
-title: "About this blog"
-description: |
-  Some additional details about the blog
+title: "About me"
+description: "Probably not worth it \n"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# Guy Sutton
+
+* Bachelor's degree from Rhodes University, South Africa in Entomology and Microbiology.
+* Master's degree from Rhodes University, South Africa in Entomology. 
+* Doctorate (just about) from Rhodes University, South Africa (noticing a trend yet?)
+
+## Where am I now? 
+
+I work as a Research Entomologist at Rhodes University in South Africa (I have lived in 4 different cities and 2 provinces during all these degrees). 
+
+My research lies at the interface between invasion biology, invasive plants, grasses and weed biological control. I have an inordinate fondess for R, data science and all things statistics! 
+
+When I am not rearing insects or debugging `R` code, you will find me hiking, drinking good coffee and on the lookout for the next best eggs benedict around. 
+
+## Contact
+
+Please tweet me [`@Guy_F_Sutton`](https://twitter.com/Guy_F_Sutton).
